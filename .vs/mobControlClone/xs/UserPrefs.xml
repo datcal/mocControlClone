@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0C74CD99-39F1-D195-BB18-8F602362B765}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WallController.cs">
+    <Files>
+      <File FileName="Assets/CanonController.cs" Line="8" Column="31" />
+      <File FileName="Assets/BulletController.cs" Line="12" Column="44" />
+      <File FileName="Assets/WallController.cs" Line="37" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mobControlClone" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="WallController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="83381e36-bcf7-46ab-9d62-19a1a161409a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
